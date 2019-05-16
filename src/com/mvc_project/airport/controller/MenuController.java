@@ -48,6 +48,7 @@ public class MenuController {
                 System.out.println();
                 System.out.println("Вы выбрали 3) Поиск и бронировка рейса");
                 System.out.println();
+                System.out.println("Test");
 /*
                 BookingRequest bookingRequest = prepareBookingRequest();
 
